@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Zoe Wu.
-- 💻 I'm a Master graduates from the University of Melbourne
-- 👀 I’m interested in machine learning, front end, back end development
-- 🌱 I’m currently a Master of Data Science graduate from the University of Melbourne
+- 💻 I'm a Master graduates from the University of Melbourne.
+- 👀 I’m interested in machine learning, front end, back end development.
+- 🌱 I’m currently a Master of Data Science graduate from the University of Melbourne.
 - ✨ Most of the repositories included are my university projects.
 - 📫 How to reach me: eibe0423@gmail.com
 
